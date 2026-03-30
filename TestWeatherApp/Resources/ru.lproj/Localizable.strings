@@ -1,0 +1,28 @@
+/* Weather screen */
+"weather.hourly_forecast" = "ПОЧАСОВОЙ ПРОГНОЗ";
+"weather.daily_forecast" = "ПРОГНОЗ НА 3 ДНЯ";
+"weather.now" = "Сейчас";
+"weather.today" = "Сегодня";
+"weather.high_low" = "Макс.: %d°, мин.: %d°";
+"weather.retry" = "Повторить";
+
+/* Detail screens */
+"detail.feels_like" = "Ощущается";
+"detail.wind" = "Ветер";
+"detail.kmh" = "км/ч";
+"detail.humidity" = "Влажность";
+"detail.pressure" = "Давление";
+"detail.mbar" = "мбар";
+"detail.precipitation" = "Осадки";
+"detail.uv_index" = "УФ-индекс";
+"detail.sunrise" = "Восход";
+"detail.sunset" = "Закат";
+"detail.max_temp" = "Макс. температура";
+"detail.min_temp" = "Мин. температура";
+"detail.moon_phase" = "Фаза луны";
+
+/* Errors */
+"error.title" = "Не удалось загрузить погоду";
+"error.invalid_url" = "Некорректный URL запроса";
+"error.no_data" = "Данные не получены";
+"error.server" = "Ошибка сервера: %d";

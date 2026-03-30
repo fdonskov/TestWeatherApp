@@ -1,0 +1,28 @@
+/* Weather screen */
+"weather.hourly_forecast" = "HOURLY FORECAST";
+"weather.daily_forecast" = "3-DAY FORECAST";
+"weather.now" = "Now";
+"weather.today" = "Today";
+"weather.high_low" = "H:%d°  L:%d°";
+"weather.retry" = "Retry";
+
+/* Detail screens */
+"detail.feels_like" = "Feels like";
+"detail.wind" = "Wind";
+"detail.kmh" = "km/h";
+"detail.humidity" = "Humidity";
+"detail.pressure" = "Pressure";
+"detail.mbar" = "mbar";
+"detail.precipitation" = "Precipitation";
+"detail.uv_index" = "UV Index";
+"detail.sunrise" = "Sunrise";
+"detail.sunset" = "Sunset";
+"detail.max_temp" = "Max temperature";
+"detail.min_temp" = "Min temperature";
+"detail.moon_phase" = "Moon phase";
+
+/* Errors */
+"error.title" = "Unable to Load Weather";
+"error.invalid_url" = "Invalid request URL";
+"error.no_data" = "No data received";
+"error.server" = "Server error: %d";
